@@ -1,5 +1,5 @@
 - 👋 Hi, I’m amira khalifa
-- 👀 I’m interested in programing and drawing 
+- 👀 I’m interested in programing 
 - 🌱 I’m currently learning javascribt
 - 📫 How to reach me : amirakalifa98@gmail.com
 
